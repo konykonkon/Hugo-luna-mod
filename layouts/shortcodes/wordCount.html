@@ -1,0 +1,35 @@
+{{ $scratch := newScratch }}
+{{ $totalWordCount := 0 }}
+
+{{ if eq (.Get 0) "posts" }}
+  {{ range (where .Site.RegularPages "Type" "in" "posts") }}
+    {{ $scratch.Add "wordcount" .WordCount }}
+  {{ end }}
+{{ else if eq (.Get 0) "weekly" }}
+  {{ range (where .Site.RegularPages "Type" "in" "weekly") }}
+    {{ $scratch.Add "wordcount" .WordCount }}
+  {{ end }}
+{{ else if eq (.Get 0) "all" }}
+  {{ range (where .Site.RegularPages "Type" "in" (slice "posts" "weekly")) }}
+    {{ $scratch.Add "wordcount" .WordCount }}
+  {{ end }}
+{{ end }}
+
+{{ $wordcount := $scratch.Get "wordcount" }}
+{{ $totalWordCount = add $totalWordCount $wordcount }}
+
+{{ $output := "" }}
+{{ if ge $totalWordCount 1000000 }} 
+  {{ $output = "《战争与和平》" }}
+{{ else if ge $totalWordCount 850000 }} 
+  {{ $output = "《应物兄》" }}
+{{ else if ge $totalWordCount 80000 }} 
+  {{ $output = "《呐喊》" }}
+{{ else if ge $totalWordCount 50000 }} 
+  {{ $output = "《小王子》" }}
+{{ else if gt $totalWordCount 4000 }} 
+  {{ $output = "《断魂枪》" }}
+{{ end }}
+
+相当于一本 {{ $output }}
+
