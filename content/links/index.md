@@ -6,12 +6,10 @@ layout: "links"
 
 {{< link url="https://changingmoments.one" image="butterfly.jpg" title="チョウ" desc="就在此刻，改变时刻" >}}
 {{< link url="https://www.shifeiti.com" image="shifeiti.png" title="是非题" desc="记录生活，热爱跑步，学习 FPGA 中。" >}}
-{{< link url="https://outatsea.icu" image="sansan.jpg" title="sansan" desc="To explore new world" >}}
 {{< link url="https://xaoxuu.com" image="xuxu.png" title="xuxu" desc="如果宇宙中真有什么终极的逻辑，那就是我们终有一天会在舰桥上重逢，直到生命终结。" >}}
 {{< link url="https://blog.chrison.cn/" image="destination.png" title="Destination" desc="希望所有人，前程似锦、未来可期、寻得良人、共赴白头，祝你也祝我。" >}}
 {{< link url="https://blog.mysto.cyou/" image="ppGKRQf.png" title="咖啡冰河" desc="无感而发，随性而谈." >}}
 {{< link url="https://www.cayzlh.com" image="CAYZLH.svg" title="CAYZLH" desc="CODE IS POETRY." >}}
-{{< link url="https://www.catchwang.com/" image="catch.ico" title="Catch Wang" desc="未来路长 · 勿忘初心。" >}}
 {{< link url="https://gregueria.icu/" image="fish.png" title="谢谢所有的鱼" desc="Hope my veins will bleed out of beautiful words." >}}
 {{< link url="https://mengru.space/" image="mengru.png" title="Mengru" desc="Mengru在互联网上的小小角落。" >}}
 {{< link url="https://dusays.com/" image="du.png" title="杜老师说" desc="师者，传道，授业，解惑！" >}}

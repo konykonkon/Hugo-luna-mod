@@ -167,7 +167,7 @@ params:
   # Comment system
   comments:
     enabled: true
-    provider: "giscus" # custom | giscus
+    provider: "custom" # custom | 
     giscus: &giscus
       repo: "Ice-Hazymoon/hugo-theme-luna"
       repoID: "R_kgDOHQOwYw"
@@ -177,8 +177,8 @@ params:
       reactionsEnabled: 1
       emitMetadata: 0
       lazy: false
-      lang: "en"
-
+      lang: "en"   
+      
   # Rss 配置
   # RSS configuration
   rss:
@@ -235,11 +235,11 @@ params:
     enabled: true
     # 网站创建时间
     # Site creation time
-    creatTime: 2016/12/12
+    creatTime: 2022/06/03
   
   #  网站创建年份
   # Site creation year
-  since: "2016"
+  since: "2022"
 
   # 显示文章过时提醒
   # show warning when outdated info detected
