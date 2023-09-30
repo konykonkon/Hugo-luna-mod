@@ -12,10 +12,10 @@ featured_image: https://bu.dusays.com/2023/09/30/6517d1ae401e1.webp
 ![我在翔鹰楼](3.webp)
 ![4月天](2.webp)
 
-![BEC前](https://bu.dusays.com/2023/09/30/6517d1ae72ca0.webp)
-![图书馆](https://bu.dusays.com/2023/09/30/6517d1ae9acb6.webp)
-![星月云](https://bu.dusays.com/2023/09/30/6517d1af4c294.webp)
-![九楼春天](https://bu.dusays.com/2023/09/30/6517d1af9dc1c.webp)
+![BEC前](5.webp)
+![图书馆](6.webp)
+![星月云](10.webp)
+![九楼春天](13.webp)
 {{< /gallery >}}
 
 
