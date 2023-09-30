@@ -7,7 +7,7 @@ comments: true
 ---
 # About me
 
-![](/img/about.gif)
+![](https://bu.dusays.com/2023/09/30/6517d1063a09f.gif)
 
 {{< tab-view >}}
 
