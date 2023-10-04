@@ -273,7 +273,7 @@ params:
 
   # 显示右上角 i18n 切换按钮
   # Display i18n toggle button
-  i18nlist: true
+  i18nlist: false
 
   # GitHub 页面设置
   # github page
@@ -302,7 +302,7 @@ params:
 
   # 启用谷歌翻译插件
   # enable google translate in footer
-  googleTranslate: true
+  googleTranslate: false
 
   # 优化中文排版，请参考：https://github.com/vinta/pangu.js
   # Optimize Chinese typography, see: https://github.com/vinta/pangu.js
@@ -310,7 +310,7 @@ params:
 
   # 开启本地搜索插件
   # enable local search plugin
-  search: true
+  search: false
 
   # 文章页显示最后修改时间
   # For outdated reminders
@@ -318,7 +318,7 @@ params:
 
   # 显示阅读时间
   # show reading time
-  readingTime: true
+  readingTime: false
 
   # 显示文章字数
   # show word count
@@ -401,7 +401,7 @@ languages:
       languageIcon: "images/i18n/zh-cn.svg" # in assets folder
       font: "Times New Roman,Times,Heti Song,serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol"
       github:
-        id: "Ice-Hazymoon"
+        id: "shixiaocaia"
         minStars: 10
       license:
         enabled: true

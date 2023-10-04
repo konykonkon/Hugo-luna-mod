@@ -3,7 +3,7 @@ title: "鲜活的痕迹"
 layout: "album"
 date: 2022-12-31T06:32:45+00:00
 comments: true
-featured_image: https://bu.dusays.com/2023/09/30/6517d1ae401e1.webp
+featured_image: 3.webp
 ---
 
 ## 看看天空
