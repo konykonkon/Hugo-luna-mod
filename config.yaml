@@ -253,13 +253,6 @@ params:
   # Automatic switching of night mode (using device settings)
   autoDarkMode: false
 
-  # 文章分享功能
-  share:
-    twitter: true
-    facebook: true
-    weibo: true
-    copyLinkText: true
-    qrcode: true
   
   qrcodeAPI: "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data="
 
