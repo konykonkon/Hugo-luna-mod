@@ -288,7 +288,7 @@ params:
 
   # 图片懒加载
   # lazyload image
-  lazyload: true
+  lazyload: false
 
   # 更快速的阅读英文内容, 参考：https://bionic-reading.com/
   # Read English content faster, see https://bionic-reading.com/

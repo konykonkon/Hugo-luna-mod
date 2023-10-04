@@ -1,5 +1,5 @@
 ---
-title: "Hugo-Luna主题装修指南"
+title: "折腾 | Hugo-Luna主题装修指南"
 date: 2023-01-03T21:21:04+08:00
 slug: 7aee45b6
 tags:
