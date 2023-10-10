@@ -21,7 +21,7 @@ layout: "links"
 {{< link url="https://bio-w.cn/" image="634d313602a1e.png" title="西瓜撞地球" desc="我在人间贩卖彩虹。" >}}
 {{< link url="https://wangyunzi.com/" image="za.png" title="长街短梦" desc="此行山高路远，我只剩口袋玫瑰一片." >}}
 {{< link url="https://mantyke.icu/" image="mantyke.png" title="小球飞鱼" desc="我们会一起遇见鲸鱼吗？" >}}
-{{< link url="https://camellia34.one/" image="https://i.vgy.me/mUOX99.png" title="阿枫|小鱼钓狗" desc="曾有十二只白鹭飞过秋天的湖泊." >}}
+{{< link url="https://camellia34.one/" image="https://i.vgy.me/mUOX99.png" title="海峡邮差" desc="曾有十二只白鹭飞过秋天的湖泊." >}}
 {{< link url="http://graugris.icu/" image="https://graugris.icu/avatar.png" title="呆呆不是槑" desc="梦想是实现旺仔牛奶自由." >}}
 {{< link url="https://tothemoonriver.icu/" image="zysh.png" title="昼河万里" desc="一起去看月亮吧." >}}
 {{< link url="https://wenderfeng.top/" image="wender.webp" title="wenderfeng" desc="step by step." >}}
@@ -29,3 +29,4 @@ layout: "links"
 {{< link url="https://www.liveout.cn/" image="https://yy.liveout.cn/photo/photo2.jpg" title="Echo 的小窝" desc="漂泊于互联中的一个小窝." >}}
 {{< link url="https://polebug.github.io/" image="po.jpg" title="Echo 的小窝" desc="喜欢的up." >}}
 {{< link url="https://www.yozll.com/" image="2023-03-09.ico" title="柚子屋" desc="安利我所遇见的美好." >}}
+{{< link url="https://blog.catchyun.com/" image="https://cdn.catchyun.com/favicon.ico" title="云晓晨CatchYun" desc="未来路远 • 勿忘初心" >}}
