@@ -30,3 +30,4 @@ layout: "links"
 {{< link url="https://polebug.github.io/" image="po.jpg" title="Echo 的小窝" desc="喜欢的up." >}}
 {{< link url="https://www.yozll.com/" image="2023-03-09.ico" title="柚子屋" desc="安利我所遇见的美好." >}}
 {{< link url="https://blog.catchyun.com/" image="https://cdn.catchyun.com/favicon.ico" title="云晓晨CatchYun" desc="未来路远 • 勿忘初心" >}}
+{{< link url="https://thirdshire.com/" image="https://thirdshire.com/blackcat_avatar.jpg" title="第三夏尔" desc="认真生活，积极摸鱼" >}}
