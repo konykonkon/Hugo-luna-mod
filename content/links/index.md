@@ -32,3 +32,5 @@ layout: "links"
 {{< link url="https://blog.catchyun.com/" image="https://cdn.catchyun.com/favicon.ico" title="云晓晨CatchYun" desc="未来路远 • 勿忘初心" >}}
 {{< link url="https://thirdshire.com/" image="https://thirdshire.com/blackcat_avatar.jpg" title="第三夏尔" desc="认真生活，积极摸鱼" >}}
 {{< link url="https://cdt3211.top/" image="https://cdt3211.top/img/avatar.png" title="Abner" desc="日拱一卒，功不唐捐" >}}
+{{< link url="https://sleepingcat.me" image="https://sleepingcat.me/img/avatar.gif" title="Sleepingcat" desc="什么都写 " >}}
+{{< link url="https://blog.douchi.space/" image="https://blog.douchi.space/dino.gif" title="椒盐豆豉" desc="喜欢就买 不行就分 多喝热水 重启电脑 " >}}
