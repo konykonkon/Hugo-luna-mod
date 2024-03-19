@@ -34,3 +34,4 @@ layout: "links"
 {{< link url="https://cdt3211.top/" image="https://cdt3211.top/img/avatar.png" title="Abner" desc="日拱一卒，功不唐捐" >}}
 {{< link url="https://sleepingcat.me" image="https://sleepingcat.me/img/avatar.gif" title="Sleepingcat" desc="什么都写 " >}}
 {{< link url="https://blog.douchi.space/" image="https://blog.douchi.space/dino.gif" title="椒盐豆豉" desc="喜欢就买 不行就分 多喝热水 重启电脑 " >}}
+{{< link url="https://blog.bosswnx.xyz/" image="https://blog.bosswnx.xyz/images/profile.jpg" title="Nelson Boss" desc="一直游到海水变蓝 " >}}
